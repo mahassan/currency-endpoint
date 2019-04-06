@@ -16,7 +16,7 @@ function loadRequest(){
            let output = `
            <div class="row">
             <div class="col-auto">
-                <h1 class="display-3 text-center">Display 3</h1>
+                <h1 class="display-5 text-center">Currency Rates</h1>
             </div>
            </div>
            <div class="row">
